@@ -1,0 +1,11 @@
+{
+    "branches": [
+        "main"
+    ],
+    "tagFormat":"{{ cookiecutter.short_project_name }}_v_${version}",
+    "plugins": [
+        "@semantic-release/commit-analyzer",
+        "@semantic-release/release-notes-generator",
+        "semantic-release-export-data"  
+    ]
+}

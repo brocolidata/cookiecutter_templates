@@ -1,0 +1,6 @@
+{
+    "long_project_name": "dbt_project_name",
+    "short_project_name": "dbt",
+    "profile_name": "my-bigquery-db",
+    "target":"prod"
+}
